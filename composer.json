@@ -39,8 +39,7 @@
         "spatie/temporary-directory": "^1.1|^2.0",
         "symfony/console": "^4.4|^5.0",
         "jenssegers/mongodb": "3.8",
-        "ext-mongodb": "*",
-        "ext-cassandra": "*"
+        "ext-mongodb": "*"
     },
     "require-dev": {
         "ext-pdo_sqlite": "*",
